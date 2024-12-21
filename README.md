@@ -1,10 +1,12 @@
 # SUTD Printer Status Telegram Bot
 
-## What does the bot do?
+_A initiative by ROOTech_
+
+### What does the bot do?
 
 The bot shows the status of all 2D printers in SUTD based off submissions from students or faculty. Sort of a downdetector specifically for SUTD Printers.
 
-## Why was this bot created?
+### Why was this bot created?
 
 The SUTD Printer Status Telegram Bot was created as we saw students sending printer statuses onto the "SUTD Family" telegram group.
 
