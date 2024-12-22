@@ -1,0 +1,58 @@
+[
+  {
+    "location": "Library",
+    "level": "Level 1",
+    "unit": "",
+    "name": "",
+    "hours": "Library Office Hours"
+  },
+  {
+    "location": "Library",
+    "level": "Level 2",
+    "unit": "",
+    "name": "",
+    "hours": "Library Office Hours"
+  },
+  {
+    "location": "Library",
+    "level": "Level 3",
+    "unit": "",
+    "name": "",
+    "hours": "Library Office Hours"
+  },
+  {
+    "location": "Building 1",
+    "level": "Level 5",
+    "unit": "1.505",
+    "name": "Pi Lab",
+    "hours": "24/7"
+  },
+  {
+    "location": "Building 2",
+    "level": "Level 6",
+    "unit": "2.602",
+    "name": "Plotter Room",
+    "hours": "24/7"
+  },
+  {
+    "location": "Block 55",
+    "level": "Level 2",
+    "unit": "55.211A",
+    "name": "Quiet Room",
+    "hours": "24/7"
+  },
+  {
+    "location": "Block 57",
+    "level": "Level 10",
+    "unit": "57.101A",
+    "name": "Quiet Room",
+    "hours": "24/7"
+  },
+  {
+    "location": "Block 59",
+    "level": "Level 10",
+    "unit": "59.1015A",
+    "name": "Quiet Room",
+    "hours": "24/7"
+  }
+]

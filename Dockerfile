@@ -8,4 +8,4 @@ RUN deno cache --allow-import deps.ts
 
 COPY . .
 
-CMD ["run", "--watch", "--allow-read", "--allow-net", "--allow-env", "--allow-import", "bot.ts"]
+CMD ["run", "--watch", "--allow-read", "--allow-write", "--allow-net", "--allow-env", "--allow-import", "bot.ts"]
